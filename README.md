@@ -29,6 +29,10 @@ I am an aspiring **Backend Developer** currently following the comprehensive roa
 
 ---
 
+
+
+<!-- 
+
 ### 📊 My GitHub Stats
 
 <p align="center">
@@ -37,6 +41,8 @@ I am an aspiring **Backend Developer** currently following the comprehensive roa
 </p>
 
 ---
+-->
+
 
 ### 🤝 Let's Connect!
 
