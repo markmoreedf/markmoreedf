@@ -31,6 +31,84 @@ I am an aspiring **Backend Developer** currently following the comprehensive roa
 
 
 
+
+### 🗺️ The Complete Backend Roadmap
+*Tracking my journey through the 25-course curriculum.*
+
+<details>
+<summary><b>Click to view all 25 Courses & Progress</b></summary>
+
+| # | Course / Level | Status | Progress Bar |
+| :--- | :--- | :---: | :--- |
+| 01 | **Foundations Level 1** | ✅ | ![100%](https://geps.dev/progress/100?successColor=006600) |
+| 02 | **Algorithms Level 1** | ✅ | ![100%](https://geps.dev/progress/100?successColor=006600) |
+| 03 | **C++ Level 1** | ✅ | ![100%](https://geps.dev/progress/100?successColor=006600) |
+| 04 | **Advanced Solutions for Algorithms L1** | 🟡 | ![100%](https://geps.dev/progress/50?warningColor=ff9900) |
+| 05 | **Algorithms Level 2** | ⌛ | ![100%](https://geps.dev/progress/0) |
+| 06 | **C++ Level 2** | ⌛ | ![100%](https://geps.dev/progress/0) |
+| 07 | **Algorithms Level 3** | ⌛ | ![100%](https://geps.dev/progress/0) |
+| 08 | **Algorithms Level 4** | ⌛ | ![100%](https://geps.dev/progress/0) |
+| 09 | **Foundations Level 2** | ⌛ | ![38%](https://geps.dev/progress/0) |
+| 10 | **OOP Level 1** | ⌛ | ![80%](https://geps.dev/progress/0) |
+| 11 | **OOP Level 2** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 12 | **Data Structures Level 1** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 13 | **Algorithms Level 5** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 14 | **C# Level 1** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 15 | **Database Level 1: SQL** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 16 | **OOP in C#** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 17 | **Database ** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 18 | **C# & Database** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 19 | **Full Project in C#** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 20 | **C# Level 2** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 21 | **Database Level 2: T-SQL** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 22 | **Data Structures Level 2** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 23 | **Algorithms Level 6** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 24 | **Windows Services** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 25 | **RESTFUL API on .NET Core** | ⌛ | ![0%](https://geps.dev/progress/0) |
+
+</details>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mark-moreed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mark-moreed&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🐍 My Contributions Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mark-moreed/mark-moreed/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/mark-moreed/) | [ProgrammingAdvices Profile](https://programmingadvices.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 
 ### 📊 My GitHub Stats
