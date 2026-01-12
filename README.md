@@ -1,13 +1,3 @@
-# Hi there, I'm Mark! 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mark-moreed&label=Profile%20views&color=0e75b6&style=flat" alt="mark-moreed" />
-</p>
-
-### 🚀 About Me
-
-I am an aspiring **Backend Developer** currently following the comprehensive roadmap at **ProgrammingAdvices.com** under the mentorship of Dr. Mohammed Abu-Hadhoud. I am passionate about understanding how things work under the hood, from low-level C++ logic to creative development in Unity.
-<!--
 ### 🚀 From Hardware to High-Level Systems
 I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Backend Development**. My background in telecommunications and embedded systems gives me a unique perspective on how data flows from hardware to the server.
 
@@ -18,7 +8,7 @@ I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Bac
 
 ---
 
-[### 🛠️ My Toolbox
+### 🛠️ My Toolbox
 
 **Engineering & Embedded**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,39 +20,8 @@ I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Bac
 ![OOP](https://img.shields.io/badge/Studying-OOP_&_Logic-orange?style=for-the-badge)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
--->
----
-
-
-- 🏗️ Currently mastering: **C++ and Software Foundation**
-- 🎯 Goal: Becoming a professional **Backend Developer**
-- 🎮 Background in: **Unity 3D** and **Arduino (Hardware/IoT)**
-- 🌱 I’m constantly learning new ways to write cleaner, more efficient code.](url)
 
 ---
-
-### 🛠 My Toolbox
-
-**Languages & Core Skills**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-**Currently Learning / Roadmap**
-![Backend](https://img.shields.io/badge/Focus-Backend_Development-orange?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Studying-Algorithms_&_Logic-blue?style=for-the-badge)
-
----
-
-
-
-
-### 🗺️ The Complete Backend Roadmap
-*Tracking my journey through the 25-course curriculum.*
-
-<details>
-<summary><b>Click to view all 25 Courses & Progress</b></summary>
 
 | # | Course / Level | Status | Progress Bar |
 | :--- | :--- | :---: | :--- |
@@ -75,7 +34,7 @@ I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Bac
 | 07 | **Algorithms Level 3** | ✅ | ![100%](https://geps.dev/progress/100?successColor=006600) |
 | 08 | **Algorithms Level 4** | ✅ | ![100%](https://geps.dev/progress/100?successColor=006600) |
 | 09 | **Foundations Level 2** | 🟡 | ![38%](https://geps.dev/progress/38?warningColor=ff9900) |
-| 10 | **OOP Level 1** | 🟡 | ![82%](https://geps.dev/progress/82?warningColor=ff9900) |
+| 10 | **OOP Level 1** | 🟡 | ![91%](https://geps.dev/progress/82?warningColor=ff9900) |
 | 11 | **OOP Level 2** | ⌛ | ![0%](https://geps.dev/progress/0) |
 | 12 | **Data Structures Level 1** | ⌛ | ![0%](https://geps.dev/progress/0) |
 | 13 | **Algorithms Level 5** | ⌛ | ![0%](https://geps.dev/progress/0) |
@@ -92,76 +51,10 @@ I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Bac
 | 24 | **Windows Services** | ⌛ | ![0%](https://geps.dev/progress/0) |
 | 25 | **RESTFUL API on .NET Core** | ⌛ | ![0%](https://geps.dev/progress/0) |
 
-</details>
-
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mark-moreed&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-moreed&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mark-moreed&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mark-moreed&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🐍 My Contributions Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mark-moreed/mark-moreed/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+### 🤝 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/mark-moreed/)
 
 ---
-
-### 🤝 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/mark-moreed/) | [ProgrammingAdvices Profile](https://programmingadvices.com/)
-
-
-
-
-
-
-
-
----
--->
-
-
-### 🤝 Let's Connect!
-
-<p align="left">
-<a href="https://www.linkedin.com/in/mark-moreed/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mark Moreed LinkedIn" height="30" width="40" />
-</a>
-</p>
-
----
-*“Programming is not just about writing code, it’s about solving problems.”*
+> "You don't rise to the level of your goals. You fall to the level of your systems." — **James Clear, Atomic Habits**
