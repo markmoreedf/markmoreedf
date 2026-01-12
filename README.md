@@ -22,7 +22,12 @@ I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Bac
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
+### 🗺️ ProgrammingAdvices Roadmap Progress
+*Tracking my journey through all 25 levels of the roadmap.*
 
+<details>
+<summary><b>Click to view the Full 25-Course Path</b></summary>
+  
 | # | Course / Level | Status | Progress Bar |
 | :--- | :--- | :---: | :--- |
 | 01 | **Foundations Level 1** | ✅ | ![100%](https://geps.dev/progress/100?successColor=006600) |
@@ -50,6 +55,8 @@ I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Bac
 | 23 | **Algorithms Level 6** | ⌛ | ![0%](https://geps.dev/progress/0) |
 | 24 | **Windows Services** | ⌛ | ![0%](https://geps.dev/progress/0) |
 | 25 | **RESTFUL API on .NET Core** | ⌛ | ![0%](https://geps.dev/progress/0) |
+
+</details>
 
 ---
 
