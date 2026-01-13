@@ -1,3 +1,4 @@
+# Hi there, I'm Mark ! 👋
 ### 🚀 From Hardware to High-Level Systems
 I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Backend Development**. My background in telecommunications and embedded systems gives me a unique perspective on how data flows from hardware to the server.
 
@@ -6,11 +7,30 @@ I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Bac
 - 🛠️ **Key Achievement:** Built an **IoT Assistive Glove** using Arduino and C++ to help bridge the gap between human intent and machine action.
 - 🎯 **The Goal:** To leverage my strong foundations in electronics and programming to build high-performance, scalable backend architectures.
 
+
+
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mark-moreed&label=Profile%20views&color=0e75b6&style=flat" alt="mark-moreed" />
+</p>
+
+<!--
+##  Engineering Foundation &  Backend Specialization
+| **The Engineer 👷🏻‍♂️** | **The Developer 👨‍💻** |
+| :--- | :--- |
+| 🎓**B.Sc. Electronics & Communication** |🏗️ **Backend Specialist (In Training)** |
+| 📡 Telecommunications Background | 🎯 Mastering .NET Core & SQL |
+| 🔌 Embedded Systems Expertise | 🏗️ Architecture & SOLID Principles |
+| 🛠️ IoT Assistive Glove Creator | 🧪 Algorithms & Complexity (Big O) |
+-->
+
 ---
 
 ### 🛠️ My Toolbox
 
 **Engineering & Embedded Systems**
+
  ![Electronics](https://img.shields.io/badge/B.Sc-Electronics_&_Communications-blue?style=for-the-badge) 
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
