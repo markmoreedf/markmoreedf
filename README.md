@@ -11,7 +11,7 @@ I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Bac
 
 
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=mark-moreed&label=Profile%20views&color=0e75b6&style=flat" alt="mark-moreed" />
 </p>
 
