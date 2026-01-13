@@ -11,20 +11,20 @@ I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Bac
 ### 🛠️ My Toolbox
 
 **Engineering & Embedded Systems**
-![Electronics](https://img.shields.io/badge/B.Sc-Electronics_&_Communications-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge)
-![Telecom](https://img.shields.io/badge/Telecommunications-Foundation-green?style=for-the-badge)
+ ![Electronics](https://img.shields.io/badge/B.Sc-Electronics_&_Communications-blue?style=for-the-badge) 
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+ ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+ ![Embedded](https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge) 
+ ![Telecom](https://img.shields.io/badge/Telecommunications-Foundation-green?style=for-the-badge) 
 
 **Software & Backend Development (In Progress)**
 
-![Algorithms](https://img.shields.io/badge/Algorithms-black?style=for-the-badge&logo=dice-d20&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-orange?style=for-the-badge)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/Database-SQL_/_T--SQL-orange?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+ ![Algorithms](https://img.shields.io/badge/Algorithms-black?style=for-the-badge&logo=dice-d20&logoColor=white) 
+ ![Data Structures](https://img.shields.io/badge/Data_Structures-orange?style=for-the-badge) 
+ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+ ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+ ![SQL](https://img.shields.io/badge/Database-SQL_/_T--SQL-orange?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+ ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=json-web-tokens&logoColor=white) 
 
 
 ---
