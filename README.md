@@ -1,5 +1,5 @@
 # Hi there, I'm Mark ! 👋
-### 🚀 From Hardware to High-Level Systems
+
 I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Backend Development**. My background in telecommunications and embedded systems gives me a unique perspective on how data flows from hardware to the server.
 
 - 🎓 **Education:** B.Sc. in Electronics and Communication Engineering.
