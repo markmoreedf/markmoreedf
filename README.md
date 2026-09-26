@@ -68,8 +68,8 @@ I am a **B.Sc. Electronics and Communication Engineer** transitioning into **Bac
 | 10 | **OOP Level 1** | ✅ | ![100%](https://geps.dev/progress/100?successColor=006600) |
 | 11 | **OOP Level 2** | ✅ | ![100%](https://geps.dev/progress/100?successColor=006600) |
 | 12 | **Data Structures Level 1** | ✅ | ![100%](https://geps.dev/progress/100?successColor=006600) |
-| 13 | **Algorithms Level 5** | 🟡 | ![93%](https://geps.dev/progress/93?warningColor=ff9900) |
-| 14 | **C# Level 1** | ⌛ | ![0%](https://geps.dev/progress/0) |
+| 13 | **Algorithms Level 5** | ✅ | ![100%](https://geps.dev/progress/100?warningColor=ff9900) |
+| 14 | **C# Level 1** | 🟡 | ![1%](https://geps.dev/progress/1) |
 | 15 | **Database Level 1: SQL** | ⌛ | ![0%](https://geps.dev/progress/0) |
 | 16 | **OOP in C#** | ⌛ | ![0%](https://geps.dev/progress/0) |
 | 17 | **Database Project** | ⌛ | ![0%](https://geps.dev/progress/0) |
